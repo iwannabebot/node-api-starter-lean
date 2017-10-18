@@ -1,0 +1,25 @@
+{
+  "name": "api-starter-lean",
+  "version": "1.0.0",
+  "description": "Lean Node API bootstrap",
+  "main": "server.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iwannabebot/node-api-starter-lean.git"
+  },
+  "keywords": [
+    "node",
+    "api",
+    "lean",
+    "typescript"
+  ],
+  "author": "iwannabebot",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iwannabebot/node-api-starter-lean/issues"
+  },
+  "homepage": "https://github.com/iwannabebot/node-api-starter-lean#readme"
+}
